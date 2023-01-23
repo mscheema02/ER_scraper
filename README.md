@@ -20,5 +20,11 @@ Earning Reports Scraper and Parser is a tool for collecting and analyzing earnin
 2. Run the parser to structure the collected data
 > python mainScrape.py
 
+### Roadmap
+- Add support for more companies
+- Implement natural language procesing to better analyze earning report
+- Create user interface
+- Add support for exporting data (e.g. CSV, Excel)
+
 ### Note
 The tool is for educational and research purposes only and should not be used for financial or investment advice. Make sure to comply with the terms of service of any website from which you are scraping data.
