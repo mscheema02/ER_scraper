@@ -10,16 +10,15 @@ Earning Reports Scraper and Parser is a tool for collecting and analyzing earnin
 
 ### Installation
 1. Clone the repository
-> git clone https://github.com/username/earning-reports-scraper-parser.git
+> git clone https://github.com/mscheema02/ER_scraper.git
 2. Install the dependencies
 > pip install -r requirements.txt
 
 ### Usage
 1. Run the scraper to collect earning reports
-> python scraper.py
+> python seleniumPuller.py
 2. Run the parser to structure the collected data
-> python parser.py
-3. (Optional) Customize the data points to be collected and analyzed in the config.py file
+> python mainScrape.py
 
 ### Note
 The tool is for educational and research purposes only and should not be used for financial or investment advice. Make sure to comply with the terms of service of any website from which you are scraping data.
